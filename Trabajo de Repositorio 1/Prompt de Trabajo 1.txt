@@ -1,0 +1,10 @@
+EJERCICIO
+---------
+
+Se trata de una empresa con un stock de venta de carros de segunda mano con las siguientes características: Los carros los suministran distintos proveedores, nos interesa conocer la marca, modelo, matricula, precio de compra, de venta, etc. Los carros pueden ser de renta-car, industriales y todoterreno. Además pueden necesitar ser reparados, por lo que se debe tener un control de las reparaciones hechas, que pueden ser mecánicas, eléctricas o de carrocería.
+
+En la empresa habrá dos tipos de vendedores: Asalariados y por comisión. De los asalariados nos interesa saber también el salario y de los que van con comisión los carros que han vendido. Además se tendrá un control de los clientes, tanto de los que han comprado un carro , como de los interesados en algún tipo de carro que podrán hacer reservas. En ambos casos, tanto vendedores como clientes son Personas con nombre, cédula, telefono, correo electrónico y dirección física. 
+
+Los carros pueden estar en distintas exposiciones, y debemos saber en todo momento donde se encuentra cada carro.
+
+Se necesitan operaciones para realizar una venta de un carro, para reparar los carros que los necesiten y para comprar nuevos carros a los proveedores. También interesa tener operaciones que nos devuelvan qué cliente compró un cierto carro, que se realicen listados de los carros que se encuentran en stock en un momento dado.
